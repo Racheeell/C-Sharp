@@ -1,0 +1,8 @@
+C:\Users\Rachel\Desktop\CURSOS\C#\Banco_Dados\Banco_Dados\obj\Debug\netcoreapp3.1\Banco_Dados.csproj.AssemblyReference.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Banco_Dados\Banco_Dados\obj\Debug\netcoreapp3.1\Banco_Dados.Form1.resources
+C:\Users\Rachel\Desktop\CURSOS\C#\Banco_Dados\Banco_Dados\obj\Debug\netcoreapp3.1\Banco_Dados.Properties.Resources.resources
+C:\Users\Rachel\Desktop\CURSOS\C#\Banco_Dados\Banco_Dados\obj\Debug\netcoreapp3.1\Banco_Dados.csproj.GenerateResource.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Banco_Dados\Banco_Dados\obj\Debug\netcoreapp3.1\Banco_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rachel\Desktop\CURSOS\C#\Banco_Dados\Banco_Dados\obj\Debug\netcoreapp3.1\Banco_Dados.AssemblyInfoInputs.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Banco_Dados\Banco_Dados\obj\Debug\netcoreapp3.1\Banco_Dados.AssemblyInfo.cs
+C:\Users\Rachel\Desktop\CURSOS\C#\Banco_Dados\Banco_Dados\obj\Debug\netcoreapp3.1\Banco_Dados.csproj.CoreCompileInputs.cache

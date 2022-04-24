@@ -1,0 +1,22 @@
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.AssemblyReference.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.Form1.resources
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.Properties.Resources.resources
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.GenerateResource.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.pdb
+C:\Users\Rachel\Desktop\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.Form2.resources
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.AssemblyReference.cache
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.Form1.resources
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.Form2.resources
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.Properties.Resources.resources
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.GenerateResource.cache
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\Rachel\Desktop\Nova pasta (2)\CURSOS\C#\Switch_case\Switch_case\obj\Debug\Switch_case.pdb

@@ -1,0 +1,17 @@
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.UI.exe
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.UI.deps.json
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.UI.runtimeconfig.json
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.UI.runtimeconfig.dev.json
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.UI.dll
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.UI.pdb
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.csproj.AssemblyReference.cache
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.MDIParent1.resources
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.csproj.GenerateResource.cache
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.AssemblyInfoInputs.cache
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.AssemblyInfo.cs
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.csproj.CoreCompileInputs.cache
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.dll
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.pdb
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.genruntimeconfig.cache
+G:\Nova pasta\CURSOS\C#\Loja\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.UI.Cadastro_usuario.resources

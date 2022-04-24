@@ -1,0 +1,10 @@
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\bin\Debug\Array_Multi.exe.config
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\bin\Debug\Array_Multi.exe
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\bin\Debug\Array_Multi.pdb
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\obj\Debug\Array_Multi.csproj.AssemblyReference.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\obj\Debug\Array_Multi.Form1.resources
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\obj\Debug\Array_Multi.Properties.Resources.resources
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\obj\Debug\Array_Multi.csproj.GenerateResource.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\obj\Debug\Array_Multi.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\obj\Debug\Array_Multi.exe
+C:\Users\Rachel\Desktop\CURSOS\C#\Array_Multi\Array_Multi\obj\Debug\Array_Multi.pdb

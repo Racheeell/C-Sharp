@@ -1,0 +1,10 @@
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\bin\Debug\ProjetoCadastroPessoas.exe.config
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\bin\Debug\ProjetoCadastroPessoas.exe
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\bin\Debug\ProjetoCadastroPessoas.pdb
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\obj\Debug\ProjetoCadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\obj\Debug\ProjetoCadastroPessoas.frmCadastro.resources
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\obj\Debug\ProjetoCadastroPessoas.Properties.Resources.resources
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\obj\Debug\ProjetoCadastroPessoas.csproj.GenerateResource.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\obj\Debug\ProjetoCadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\obj\Debug\ProjetoCadastroPessoas.exe
+C:\Users\Rachel\Desktop\CURSOS\C#\ProjetoCadastroPessoas\ProjetoCadastroPessoas\obj\Debug\ProjetoCadastroPessoas.pdb
